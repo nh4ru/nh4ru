@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tristan Fernandez (nh4ru)</h1>
+<h1 align="center">Hi 👋, I'm nh4ru</h1>
 <h3 align="center">I'm passionate frontend / Backend developper from France</h3>
 
 - 🌱 I’m currently learning **VueJs, Django**
