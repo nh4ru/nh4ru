@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nh4ru</h1>
-<h3 align="center">I'm passionate frontend / Backend developper from France</h3>
+<h3 align="center">I'm passionate frontend developper with backend skills from France</h3>
 
 - 🌱 I’m currently learning **VueJs, Django**
 
